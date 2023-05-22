@@ -1,4 +1,4 @@
-# Demo Webhook  second poll triggered
+# Example for second poll change 
 
 Example Maven project generated using `maven-archetype-quickstart`
 
